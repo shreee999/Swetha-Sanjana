@@ -1,4 +1,6 @@
 # Swetha-Sanjana
+🎮 Steam or Scam: What Actually Makes a Game Worth Buying?
+
 Objective 1 — The Love-Hate Divide (Easy)
 Goal:
 Identify games that are universally loved vs. games that divide opinion.
